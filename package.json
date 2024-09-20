@@ -1,0 +1,15 @@
+{
+  "name": "pricetracker",
+  "version": "1.0.0",
+  "description": "webscrapping for price tracking",
+  "main": "index.js",
+  "type": "module",
+  "author": "aadit",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "puppeteer": "2.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
